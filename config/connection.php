@@ -1,9 +1,9 @@
 <?php
 // Database configuration
 $servername = 'localhost';
-$username = 'sporqmnc_testghd';
+$username = 'sporqm';
 $password = '.pKGD(osE_sG';
-$dbname = 'sporqmnc_testghd';
+$dbname = 'sporqmnc_td';
 
 // Create a database connection
 $conn = new mysqli($servername, $username, $password, $dbname);
